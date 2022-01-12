@@ -1,11 +1,18 @@
 # Omicron dampens global New Year celebrations, fewer watch ball drop in Times Square
 
-下面上模板：
+
+
+## 模板:
+
 ## N
 ### 原文
 ### 第一次翻译
 ### 知识点
 ### 第二次翻译
+
+
+
+## 正文
 
 ## 1
 ### 原文
@@ -97,6 +104,77 @@ Elsewhere around the globe, events were scaled back or cancelled outright, such 
 ### 第二次翻译
 第一次翻译没有问题。
 
+## 9
+### 原文
+Midnight passed in Paris without a planned fireworks display or DJ sets, as city officials cancelled events planned on the Champs-Elysees following the advice of a scientific panel that declared mass gatherings would be too risky.
+### 第一次翻译
+Paris的午夜没有计划烟火表演或者DJ 音乐会，因为 城市官员取消了计划中的事件在 Champs-Elysees的科学的建议下，大量的聚集会导致更糟。
+### 知识点
+无
+### 第二次翻译
+第一次翻译没有问题。
+
+
+
+## 10
+
+### 原文
+
+In the Netherlands, where outside groupings of more than four people are banned, police dispersed several thousand people who had defiantly gathered at Amsterdam's central Dam Square, ANP news agency reported.
+
+### 第一次翻译
+
+在Netherlands结伴外出不允许超过四个人，警察分离了聚集在阿姆斯特丹中心Dam广场的数千民众，ANP new agency 报道
+
+### 知识点
+
+agency：通信社，机构
+
+dispersed：驱散
+
+### 第二次翻译
+
+没有太大问题
+
+
+
+## 11
+
+### 原文
+
+But in London, where a fireworks display and light show had been cancelled in October, officials announced on Friday the spectacle would come to life on the television screen, as Big Ben rang in the New Year for the first time since 2017 following a restoration.
+
+### 第一次翻译
+
+但是在十月份，伦敦的烟火表演和灯光秀被取消，官方宣称这将会在电视中直播，当大本钟在新年敲响，自从2017年开始 ？？
+
+### 知识点
+
+spectacle：奇观，场面
+
+restoration：修复
+
+### 第二次翻译
+
+但是在十月份，伦敦的烟火表演和灯光秀被取消，官方宣布随着大本钟自从2017修复后首次敲响，这一烟火场景将在电视中播放。
+
+
+
+## 12
+
+### 原文
+
+Revelers gather during New Year's Eve celebrations in Times Square, as the Omicron coronavirus variant continues to spread, in the Manhattan borough of New York City, U.S., January 1, 2022. REUTERS/Dieu-Nalio Chery
+
+### 第一次翻译
+
+？？聚集，在时代广场的新年Nve庆典中，当Omicron变种持续在纽约Nabhattanborough 扩散
+
+### 知识点
+
+Revelers 狂欢者
+
+### 第二次翻译
 
 
 
